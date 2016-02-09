@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ISTeam_Android_Subway_App.iml" filepath="$PROJECT_DIR$/ISTeam_Android_Subway_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth/auth.iml" filepath="$PROJECT_DIR$/auth/auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/friends/friends.iml" filepath="$PROJECT_DIR$/friends/friends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kakao-open-android-link-sample/kakao-open-android-link-sample.iml" filepath="$PROJECT_DIR$/kakao-open-android-link-sample/kakao-open-android-link-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kakao-open-android-sdk-sample/kakao-open-android-sdk-sample.iml" filepath="$PROJECT_DIR$/kakao-open-android-sdk-sample/kakao-open-android-sdk-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kakaolink/kakaolink.iml" filepath="$PROJECT_DIR$/kakaolink/kakaolink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kakaostory/kakaostory.iml" filepath="$PROJECT_DIR$/kakaostory/kakaostory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kakaotalk/kakaotalk.iml" filepath="$PROJECT_DIR$/kakaotalk/kakaotalk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/network/network.iml" filepath="$PROJECT_DIR$/network/network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/push/push.iml" filepath="$PROJECT_DIR$/push/push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage/storage.iml" filepath="$PROJECT_DIR$/storage/storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermgmt/usermgmt.iml" filepath="$PROJECT_DIR$/usermgmt/usermgmt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
+    </modules>
+  </component>
+</project>
